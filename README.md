@@ -192,6 +192,7 @@ Example:
 //remove 2nd and 3rd slide
 homeCarousel.remove(2, 2) //start at second slide, remove two slides
 ```
+___
 
 #### .update()
 This method allows you to update the settings of the slider, the only option you can't update is the transition type due to the diffent construction needed for the two different types of transitions
@@ -206,6 +207,7 @@ homeCarousel.update({
     }
 });
 ```
+___
 
 ### Contributing To The Project
 If you would like to contribute to this module:
